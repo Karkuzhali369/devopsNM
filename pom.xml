@@ -26,9 +26,10 @@
 		<tag/>
 		<url/>
 	</scm>
-	<properties>
-		<java.version>21</java.version>
-	</properties>
+	   <properties>
+       <java.version>21</java.version>
+       <sonar.login>sqp_c932875efa875ae1306470ac1388b92e2353c013</sonar.login>
+   </properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
