@@ -15,7 +15,7 @@ public class Exercise2Application {
 
 	@GetMapping("/")
 	public String home() {
-		return "Hello from DevOps Demo App!";
+		return "Hello from DevOps NM exercise 2!";
 	}
 
 	@GetMapping("/status")
